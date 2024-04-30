@@ -1,0 +1,1 @@
+busybox httpd -p 8000 -h . -c http.conf -f -v
